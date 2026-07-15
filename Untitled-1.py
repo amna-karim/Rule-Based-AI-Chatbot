@@ -1,0 +1,5 @@
+print("====================================")
+print("      Welcome to AI Chatbot 🤖")
+print("====================================")
+print("Type 'bye' or 'exit' to end the chat.")
+print()
